@@ -38,9 +38,8 @@ Files include:
 ---
 ## License
 
-- **Code:** Released under the [MIT License](./LICENSE), allowing reuse, modification, and redistribution with attribution.  
-- **Dataset:** *Cyprus Terrace Dataset: Detection and Classification Maps* is distributed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), which permits sharing and adaptation with appropriate credit.
-
+- **Code:** Released under the [MIT License](./LICENSE)
+- **Dataset:** *Cyprus Terrace Dataset: Detection and Classification Maps* is distributed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 ## Citation
 
 If you use this code or dataset, please cite both the **paper** and the **dataset** as follows:
