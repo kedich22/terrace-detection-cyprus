@@ -5,14 +5,14 @@ This repository contains the code and workflow used in the paper
 
 ---
 
-## 👥 Authors and Affiliations
+## Authors and Affiliations
 
 **Andrei Kedich**<sup>a,b,\*</sup>, **Ralf Vandam**<sup>b</sup>, **Soetkin Vervust**<sup>b</sup>, **Yannick Devos**<sup>b</sup>, and **Matthias Vanmaercke**<sup>a</sup>  
 
 <sup>a</sup> *Division of Geography and Tourism, Department of Earth and Environmental Sciences, KU Leuven, Heverlee, Belgium*  
 <sup>b</sup> *Archaeology, Environmental Changes & Geo-Chemistry research group (AMGC), Vrije Universiteit Brussel, Brussels, Belgium*  
 
-📧 **Corresponding author:** [andrei.kedich@kuleuven.be](mailto:andrei.kedich@kuleuven.be)
+**Corresponding author:** [andrei.kedich@kuleuven.be](mailto:andrei.kedich@kuleuven.be)
 
 ---
 
