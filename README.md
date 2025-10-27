@@ -21,7 +21,7 @@ Files include:
 
 ---
 
-## 🧾 Citation
+## Citation
 
 If you use this code or dataset, please cite both the **paper** and the **dataset** as follows:
 
