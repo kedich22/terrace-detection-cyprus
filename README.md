@@ -26,14 +26,9 @@ It provides the scripts used for preprocessing, segmentation, model training, an
 
 ## Related Data
 
-The corresponding geospatial outputs (terrace detection and classification maps) are openly available on Zenodo:
+The corresponding geospatial outputs (terrace detection and classification maps) are openly available through the KU Leuven Research Data Repository (RDR):
 
-**Dataset DOI:** [https://doi.org/10.5281/zenodo.17454228](https://doi.org/10.5281/zenodo.17454228)
-
-Files include:
-- `Terrace_binarypred_balthresh067.tif` — Binary terrace occurrence map (terraced vs. non-terraced areas).  
-- `Terrace_classpred_balthresh067.tif` — Multiclass terrace type map.  
-- `Terrace_susceptibility_Cyprus.tif` — Terrace susceptibility index map.  
+**Dataset DOI:** [https://doi.org/10.48804/0QBZEI](https://doi.org/10.48804/0QBZEI)
 
 ---
 ## License
@@ -49,5 +44,4 @@ Kedich, A., *et al.* (2025). **Automatic detection and classification of agricul
 *(Submitted manuscript, 2025)*
 
 ### Dataset
-Kedich, A., *et al.* (2025). *Terrace detection and classification maps for Cyprus.* Zenodo.  
-[https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+Kedich, A.; Vanmaercke, M.; Vandam, R.; Vervust, S.; Devos, Y. (2025). Replication Data for: Automatic detection and classification of agricultural terraces at large scales: a case study of Cyprus. KU Leuven RDR. https://doi.org/10.48804/0QBZEI
