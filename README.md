@@ -40,8 +40,7 @@ The corresponding geospatial outputs (terrace detection and classification maps)
 If you use this code or dataset, please cite both the **paper** and the **dataset** as follows:
 
 ### Paper
-Kedich, A., *et al.* (2025). **Automatic detection and classification of agricultural terraces at large scales: a case study of Cyprus.**  
-*(Submitted manuscript, 2025)*
+Kedich, A., Vandam, R., Vervust, S., Devos, Y., & Vanmaercke, M. (2026). **Automatic detection and classification of agricultural terraces at large scales: a case study of Cyprus.** *European Journal of Remote Sensing*, 59(1). https://doi.org/10.1080/22797254.2026.2746905
 
 ### Dataset
 Kedich, A.; Vanmaercke, M.; Vandam, R.; Vervust, S.; Devos, Y. (2025). Replication Data for: Automatic detection and classification of agricultural terraces at large scales: a case study of Cyprus. KU Leuven RDR. https://doi.org/10.48804/0QBZEI
